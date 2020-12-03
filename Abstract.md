@@ -7,7 +7,7 @@ It is well-established that NAIST is in the middle of nowhere. This study aims t
 
 
 To test the hypothesis ... we performed a .... 
-We conduct...
+We conduct a unethical experiments.
 Results were analyzed using ... The results showed a small effect of depression in the student life 
 
 
