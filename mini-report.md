@@ -113,8 +113,8 @@ How to properly manage the repository.
 How to colaborate with others on GitHub
 
 -------------
-# Student Id:
-2011425
+# Student Id:2011425
+
 ## repo link: 
 https://github.com/markxiaotao/AbstractBuilderFromMark
 ## Experience to maintain repo: 
@@ -123,5 +123,20 @@ Take time to resolve conflicts, with many commits by other contributors. Should 
 Too tired to reivew so many PRs, if there are better documentation to guide developers.
 ## Lessons learnt: 
 Difficulties to contribute the open source project, we should understand reviewer. And learn how to contribute the real project.
+
+-------------
+Student Id 2011145
+repo link: https://github.com/taku2365/AbstractBuilder-2011145
+my dad joke was mereged  https://github.com/wesbos/dad-jokes/pull/228
+
+Experience to maintain repo
+It was very useful to learn how to resolve confilict.
+I will use it in my future research.
+
+Experience to review PRs
+It was difficult because it was my first time experiencing it.
+
+Lessons learnt
+In today's complex development, it's hard to manage code. I felt it was important to manage projects in the community.
 
 -------------
